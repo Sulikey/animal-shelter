@@ -1,0 +1,70 @@
+.maria {
+  width: 200px;
+  height: auto;
+  float: left;
+  padding: 10%;
+  background-color: rgb(78, 149, 78);
+}
+
+.sam {
+  width: 200px;
+  height: auto;
+  float: left;
+  padding: 10%;
+  background-color: rgba(228, 76, 76, 0.739);
+}
+
+.nala  {
+  width:200px;
+  height: auto;
+  float: left;
+  padding: 10%;
+  background-color:rgb(105, 91, 91);
+}
+
+.maria img{
+  width: 200px;
+ 
+}
+
+.sam img{
+  width: 200px;
+ 
+}
+
+.nala img {
+  width:200px;
+  
+}
+
+h1{
+  text-align: center;
+}
+
+body{
+  background-color: rgb(101, 90, 138);
+}
+
+.maria p {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  text-align: center;
+  background-color: rgb(207, 160, 100);
+}
+
+.nala p {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  text-align: center;
+  background-color: rgb(207, 160, 100);
+}
+
+.sam p {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  text-align: center;
+  background-color: rgb(207, 160, 100);
+}
